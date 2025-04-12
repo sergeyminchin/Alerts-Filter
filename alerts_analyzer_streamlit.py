@@ -5,7 +5,7 @@ from io import BytesIO
 from PIL import Image
 import xlsxwriter
 
-st.set_page_config(page_title="Polytex Alert Analyzer", page_icon="politex.ico", layout="centered")
+st.set_page_config(page_title="Polytex Alerts Analyzer", page_icon="politex.ico", layout="centered")
 
 # Show logo
 try:
